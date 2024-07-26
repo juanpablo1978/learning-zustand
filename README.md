@@ -1,4 +1,4 @@
-#Learning Zustand
+# Learning Zustand
 
 Es un proyecto sencillo que desarrollé con React + TypeScript + Vite para aprender/practicar Zustand como gestor de estados y TS para el tipado de datos.
 
